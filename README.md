@@ -1,1 +1,1 @@
-# Jogo-em-Javascript
+# Jogo em Javascript
